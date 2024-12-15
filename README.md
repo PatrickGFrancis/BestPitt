@@ -1,4 +1,5 @@
 Team Name: Floor 7
+Canvas Group 20
 Team Members:
 1. Patrick Francis (pgf12@pitt.edu)
 2. Alex Woo (adw148@pitt.edu)
